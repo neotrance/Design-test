@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "AD76DAA7-314C-4878-844D-070B2ACFE795",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33,
+    "width": 7,
+    "x": 1295,
+    "y": 63
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7B58E2C5-AAC2-4BDF-AA79-1BC1FA478A89"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1775FAB5-0289-4BEC-954D-EA8DFA6D29EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "157A64E0-B34A-47AD-B476-3BE87E6F4501"
+    }
+  ],
+  "name": "Oval 184 + Oval 184 Copy + Oval 184 Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
