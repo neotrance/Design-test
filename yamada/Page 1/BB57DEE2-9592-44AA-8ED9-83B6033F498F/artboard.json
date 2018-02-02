@@ -1,0 +1,121 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "BB57DEE2-9592-44AA-8ED9-83B6033F498F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 594,
+    "width": 360,
+    "x": 777,
+    "y": 69
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7E1E43D9-ACE9-4C44-988F-8019599DC52A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "640D212D-1C33-46BF-ADC2-49038448DCD1"
+    },
+    {
+      "class": "group",
+      "id": "B5E33D8B-AE62-4B04-B0FC-501E85B1B1C9"
+    },
+    {
+      "class": "group",
+      "id": "FDDE9A77-6C92-4AF6-AF86-E2C2554AE8AC"
+    },
+    {
+      "class": "group",
+      "id": "C5724FD8-F1EA-43A5-B36B-01E8FDAA2070"
+    },
+    {
+      "class": "group",
+      "id": "7C0CBB42-1E60-46D2-A70F-C7A8C5F6BFB3"
+    },
+    {
+      "class": "group",
+      "id": "4B57C38E-5FDA-4798-8AEA-61A58FAB0138"
+    },
+    {
+      "class": "group",
+      "id": "2975C9EC-58FD-4859-9A4D-ADFD3C93C67F"
+    },
+    {
+      "class": "group",
+      "id": "80D0B7E0-BEA4-4FB4-93EB-D91A725DCFA0"
+    }
+  ],
+  "name": "Now Playing Copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "76C49B55-5877-46E6-9C09-7FCA89C456E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E5C10311-A78F-44A8-83D0-45C9AAAB9633"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F1E72404-E592-4E2D-9E1F-44D0A5175E5C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8CEBCF27-A033-4568-97CB-242DC0027E41"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DF905D7B-8448-4B64-9A97-457B7CACDE0E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "49216844-77D6-491C-9B48-EC972D044040"
+    }
+  ],
+  "name": "shufle-button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
